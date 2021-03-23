@@ -83,8 +83,8 @@ moderator know. Here is a list of the current admins and their Slack IDs:**
 
 * Ben Darlow - `@kapowaz`
 * Maria Neumayer - `@maria`
-* Ben Pettifer - `@Ben`
-* Amal Kakaiya - `@amal`
+* Ben Pettifer - `@benp`
+* Amal Kakaiya - `@Amal`
 * Padraic - `@SpookyDog`
 * Anne Byrne - `@anne`
 
